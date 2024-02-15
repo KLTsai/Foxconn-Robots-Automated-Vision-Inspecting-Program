@@ -1,0 +1,15 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\bin\Debug\Initialize.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\bin\Debug\Initialize.pdb
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Debug\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Debug\Initialize.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Debug\Initialize.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Debug\Initialize.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Debug\Initialize.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Debug\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Debug\Initialize.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\Debug\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\Debug\Initialize.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Debug\Initialize.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Debug\Initialize.csproj.GenerateResource.Cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\Debug\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Debug\Initialize.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\bin\Release\Initialize.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Release\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Release\Initialize.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Release\Initialize.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Initialize\obj\Release\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Release\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\Release\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Release\Initialize.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Release\Initialize.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\Release\Initialize.csproj.GenerateResource.Cache

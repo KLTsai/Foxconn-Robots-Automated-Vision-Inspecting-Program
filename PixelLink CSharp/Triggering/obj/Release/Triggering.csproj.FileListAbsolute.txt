@@ -1,0 +1,3 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Triggering\bin\Release\Triggering.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Triggering\obj\Release\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Triggering\obj\Release\Triggering.exe

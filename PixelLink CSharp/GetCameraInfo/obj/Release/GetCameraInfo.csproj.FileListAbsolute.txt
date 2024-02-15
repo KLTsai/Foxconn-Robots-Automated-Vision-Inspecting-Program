@@ -1,0 +1,11 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetCameraInfo\bin\Release\GetCameraInfo.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetCameraInfo\obj\Release\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetCameraInfo\obj\Release\GetCameraInfo.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetCameraInfo\obj\Release\GetCameraInfo.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetCameraInfo\obj\Release\GetCameraInfo.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\obj\Release\GetCameraInfo.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\bin\Release\GetCameraInfo.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\bin\Release\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\obj\Release\GetCameraInfo.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\obj\Release\GetCameraInfo.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraInfo\obj\Release\GetCameraInfo.csproj.GenerateResource.Cache

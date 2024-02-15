@@ -1,0 +1,12 @@
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\PR.pdb
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\halcondotnet.dll
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\halcondotnet.xml
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.FormPR.resources
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.pdb
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\Debug\PR.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.pdb

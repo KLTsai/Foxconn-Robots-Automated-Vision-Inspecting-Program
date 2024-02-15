@@ -1,0 +1,52 @@
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.pdb
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.exe
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.pdb
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\halcondotnet.xml
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\ResolveAssemblyReference.cache
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.FormRobotControl.resources
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.Properties.Resources.resources
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\DO_StaticDO.StaticDOForm.resources
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.read.1.tlog
+F:\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會_2_22\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_9\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會_3_9\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\PR.FormSF.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\TCP_IP_class.Properties.Resources.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\software\TCP_IP_class\TCP_IP_class\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,54 @@
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.pdb
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\bin\Debug\PR.exe
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\bin\Debug\PR.pdb
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\bin\Debug\halcondotnet.dll
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\bin\Debug\halcondotnet.xml
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.FormSF.resources
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+C:\Users\Tien0812\Desktop\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\PR.pdb
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\PR.FormSF.resources
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\bin\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\bin\Debug\PR.pdb
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\bin\Debug\halcondotnet.dll
+D:\Project\鴻海project\2016 虎博會\ShapeFinder\Shap Finder\bin\Debug\halcondotnet.xml
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\PR.exe
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\PR.pdb
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\bin\Debug\PR.exe
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\bin\Debug\PR.pdb
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\bin\Debug\halcondotnet.dll
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\bin\Debug\halcondotnet.xml
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\PR.FormSF.resources
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+C:\Users\Tien0812\Desktop\ShapeFinder-2\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\PR.exe
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\PR.pdb
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\bin\Debug\PR.exe
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\bin\Debug\PR.pdb
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\bin\Debug\halcondotnet.dll
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\bin\Debug\halcondotnet.xml
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\PR.FormSF.resources
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+C:\Users\ntut12\Desktop\2016 虎博會-1\ShapeFinder-2\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.pdb
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.pdb
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.FormSF.resources
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+G:\Foxconn智能檢測前測完整版\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\PR.exe
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\PR.pdb
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csprojResolveAssemblyReference.cache
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\PR.FormSF.resources
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\PR.Properties.Resources.resources
+E:\Foxconn智能檢測前測完整版_4_25\ShapeFinder\Shap Finder\obj\Debug\Shape Finder.csproj.GenerateResource.Cache

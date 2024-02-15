@@ -1,0 +1,7 @@
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\x64\Debug\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\x64\Debug\Initialize.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\bin\x64\Debug\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\x64\Debug\Initialize.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\x64\Debug\Initialize.csproj.GenerateResource.Cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\x64\Debug\Initialize.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Initialize\obj\x64\Debug\Initialize.pdb

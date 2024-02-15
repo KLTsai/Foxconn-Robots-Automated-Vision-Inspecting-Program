@@ -1,0 +1,7 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\bin\Debug\AutoWhiteBalance.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\bin\Debug\AutoWhiteBalance.pdb
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\obj\Debug\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\obj\Debug\AutoWhiteBalance.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\obj\Debug\AutoWhiteBalance.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\obj\Debug\AutoWhiteBalance.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\AutoWhiteBalance\obj\Debug\AutoWhiteBalance.pdb

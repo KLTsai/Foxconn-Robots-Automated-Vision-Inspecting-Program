@@ -1,0 +1,6 @@
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\bin\x64\Release\GetSnapshot.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\bin\x64\Release\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\x64\Release\GetSnapshot.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\x64\Release\GetSnapshot.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\x64\Release\GetSnapshot.csproj.GenerateResource.Cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\x64\Release\GetSnapshot.exe

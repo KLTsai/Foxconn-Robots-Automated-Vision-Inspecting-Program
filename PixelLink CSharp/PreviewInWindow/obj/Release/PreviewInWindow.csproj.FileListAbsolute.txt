@@ -1,0 +1,11 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\PreviewInWindow\bin\Release\PreviewInWindow.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\PreviewInWindow\obj\Release\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\PreviewInWindow\obj\Release\PreviewInWindow.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\PreviewInWindow\obj\Release\PreviewInWindow.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\PreviewInWindow\obj\Release\PreviewInWindow.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\obj\Release\PreviewInWindow.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\bin\Release\PreviewInWindow.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\bin\Release\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\obj\Release\PreviewInWindow.csprojResolveAssemblyReference.cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\obj\Release\PreviewInWindow.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\PreviewInWindow\obj\Release\PreviewInWindow.csproj.GenerateResource.Cache

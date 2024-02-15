@@ -1,0 +1,125 @@
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\PG Acquisition.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\PG Acquisition.pdb
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.csprojResolveAssemblyReference.cache
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\PR.pdb
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\PR.exe
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\PR.pdb
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會_2_22\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_2_22\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\PR.exe
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\PR.pdb
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+G:\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+G:\2016 虎博會_3_9\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\PR.exe
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\PR.pdb
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_20\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\PR.FormSF.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\2016 虎博會_3_21\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\PR.FormSF.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+G:\Foxconn智能檢測前測完整版\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\bin\Debug\halcondotnet.dll
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\bin\Debug\PixeLINK.API.dll
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\bin\Debug\halcondotnet.xml
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.FormMain.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\PixeLinkU3_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\PR.FormSF.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.Properties.Resources.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kun\Desktop\temp\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+C:\Users\kun\Desktop\temp\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.pdb
+E:\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.exe
+E:\Foxconn智能檢測前測完整版_4_25\RAVIP\RAVIP\obj\Debug\RAVIP.pdb

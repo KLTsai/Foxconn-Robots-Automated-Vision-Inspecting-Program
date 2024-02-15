@@ -1,0 +1,9 @@
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\bin\Debug\RAVIP.pdb
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.FormMain.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.exe
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.pdb
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\TCP_IP_class.FormRobotControl.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x86\Debug\RAVIP.csprojResolveAssemblyReference.cache

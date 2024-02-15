@@ -1,0 +1,5 @@
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x64\Debug\RAVIP.FormMain.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x64\Debug\PG_Acquisition.FormPixeLinkU3HalconAcquisition.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x64\Debug\TCP_IP_class.FormRobotControl.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x64\Debug\RAVIP.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\RAVIP\RAVIP\obj\x64\Debug\RAVIP.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Callback\bin\Release\Callback.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Callback\obj\Release\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\Callback\obj\Release\Callback.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback\obj\Release\Callback.exe

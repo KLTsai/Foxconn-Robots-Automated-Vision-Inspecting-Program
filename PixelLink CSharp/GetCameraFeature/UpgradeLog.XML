@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GetCameraFeature">
+</Property><Property Name="方案檔" Value="C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\GetCameraFeature.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\GetCameraFeature.suo">
+</Property><Property Name="Date" Value="2016年1月13日">
+</Property><Property Name="Time" Value="下午 17:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GetCameraFeature.sln" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\GetCameraFeature.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GetCameraFeature.suo" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\GetCameraFeature.suo">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="GetCameraFeature.csproj" Description="專案檔已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\GetCameraFeature.csproj">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="Form1.cs" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="App.ico" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="Form1.resx" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetCameraFeature\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="GetCameraFeature.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="GetCameraFeature" Source="GetCameraFeature.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GetCameraFeature.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="GetCameraFeature.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GetCameraFeature" Source="GetCameraFeature.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

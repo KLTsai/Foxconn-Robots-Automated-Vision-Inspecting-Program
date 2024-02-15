@@ -1,0 +1,40 @@
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Form1.resources
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Properties.Resources.resources
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csproj.GenerateResource.Cache
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+C:\Users\kun\Desktop\C# TEST\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csprojResolveAssemblyReference.cache
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csprojResolveAssemblyReference.cache
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Form1.resources
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Properties.Resources.resources
+D:\Kun_Lin\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csproj.GenerateResource.Cache
+E:\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+E:\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+G:\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+G:\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+C:\Users\kun\CloudStation\Kun Lin 備份資料\ROBOT_2015_02_12\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+C:\Users\kun\CloudStation\Kun Lin 備份資料\ROBOT_2015_02_12\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csprojResolveAssemblyReference.cache
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.FormRobotControl.resources
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.exe
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\bin\Debug\TCP_IP_class.pdb
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.FormRobotControl.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\TCP_IP_class.Properties.Resources.resources
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\2016 虎博會\software\TCP_IP_class\TCP_IP_class\obj\x86\Debug\DO_StaticDO.StaticDOForm.resources

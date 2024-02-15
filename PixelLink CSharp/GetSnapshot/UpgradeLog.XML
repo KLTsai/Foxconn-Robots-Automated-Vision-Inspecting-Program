@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GetSnapshot">
+</Property><Property Name="方案檔" Value="C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\GetSnapshot.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\GetSnapshot.suo">
+</Property><Property Name="Date" Value="2016年1月11日">
+</Property><Property Name="Time" Value="下午 17:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GetSnapshot.sln" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\GetSnapshot.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GetSnapshot.suo" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\GetSnapshot.suo">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="GetSnapshot.csproj" Description="專案檔已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\GetSnapshot.csproj">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="Form1.cs" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="getsnapshot.cs" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\getsnapshot.cs">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="App.ico" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="Form1.resx" Description="檔案已成功備份為 C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="GetSnapshot.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="GetSnapshot" Source="GetSnapshot.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GetSnapshot.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="GetSnapshot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GetSnapshot" Source="GetSnapshot.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

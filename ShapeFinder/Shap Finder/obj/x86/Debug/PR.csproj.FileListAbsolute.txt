@@ -1,0 +1,7 @@
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\PR\PR\bin\Debug\PR.pdb
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\x86\Debug\PR.FormPR.resources
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\x86\Debug\PR.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\x86\Debug\PR.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\x86\Debug\PR.exe
+D:\Project\鴻海project\2016 虎博會\PR\PR\obj\x86\Debug\PR.pdb

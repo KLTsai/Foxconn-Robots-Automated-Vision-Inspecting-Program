@@ -1,0 +1,14 @@
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\obj\Debug\ResolveAssemblyReference.cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\obj\Debug\GetSnapshot.Form1.resources
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\obj\Debug\GetSnapshot.csproj.GenerateResource.Cache
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\bin\Debug\GetSnapshot.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\bin\Debug\GetSnapshot.pdb
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\obj\Debug\GetSnapshot.exe
+V:\2 - engineering\projects\515 - PL-SDK-VERSION-4\PixeLINK Demo apps\dotNET\CSharp\GetSnapshot\obj\Debug\GetSnapshot.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\Debug\GetSnapshot.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\Debug\GetSnapshot.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\bin\Debug\GetSnapshot.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\bin\Debug\GetSnapshot.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\bin\Debug\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\Debug\GetSnapshot.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\GetSnapshot\obj\Debug\GetSnapshot.csproj.GenerateResource.Cache

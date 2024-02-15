@@ -1,0 +1,7 @@
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\bin\x86\Debug\Callback2.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\bin\x86\Debug\Callback2.pdb
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\bin\x86\Debug\PixeLINK.API.dll
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\obj\x86\Debug\Callback2.Form1.resources
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\obj\x86\Debug\Callback2.csproj.GenerateResource.Cache
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\obj\x86\Debug\Callback2.exe
+C:\Users\Tien0812\Desktop\PixelLink CSharp\Callback2\obj\x86\Debug\Callback2.pdb
