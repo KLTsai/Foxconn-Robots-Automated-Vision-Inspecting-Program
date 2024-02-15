@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\2016 虎博會\DI_StaticDI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2016 虎博會\DI_StaticDI\obj\Debug\DI_StaticDI.StaticDIForm.resources
+C:\Users\User\Desktop\2016 虎博會\DI_StaticDI\obj\Debug\StaticDI.Properties.Resources.resources
