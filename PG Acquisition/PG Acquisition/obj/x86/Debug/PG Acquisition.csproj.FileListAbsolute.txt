@@ -1,0 +1,9 @@
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\bin\Debug\PG Acquisition.exe
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\bin\Debug\PG Acquisition.pdb
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\bin\Debug\halcondotnet.dll
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\bin\Debug\halcondotnet.xml
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\obj\x86\Debug\PG_Acquisition.FormPGU3HalconAcquisition.resources
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\obj\x86\Debug\PG_Acquisition.Properties.Resources.resources
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\obj\x86\Debug\PG Acquisition.csproj.GenerateResource.Cache
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\obj\x86\Debug\PG Acquisition.exe
+D:\Project\鴻海project\2016 虎博會\PG Acquisition\PG Acquisition\obj\x86\Debug\PG Acquisition.pdb
